@@ -1,2 +1,3 @@
 const a = "hello";
-const b = "akshu";
+const c = "simran";
+const d = "Main Heroin hun"
